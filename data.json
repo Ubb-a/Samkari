@@ -1,0 +1,388 @@
+{
+  "roadmaps": {
+    "1353795780384657479_front_end": {
+      "id": "1353795780384657479_front_end",
+      "name": "front_end",
+      "guildId": "1353795780384657479",
+      "guildName": "UBB_A",
+      "roleId": "1387225383471943902",
+      "roleName": "Web",
+      "createdBy": "550049617564270642",
+      "createdAt": "2025-06-25T00:21:05.019Z",
+      "tasks": [
+        {
+          "id": 1,
+          "title": "Getting Started",
+          "description": "Welcome to the new roadmap! Add tasks using task management commands.",
+          "weekNumber": 1,
+          "status": "pending",
+          "createdAt": "2025-06-25T00:21:05.019Z",
+          "emoji": "📝",
+          "completedBy": [],
+          "hiddenBy": []
+        }
+      ]
+    },
+    "1353795780384657479_back_end": {
+      "id": "1353795780384657479_back_end",
+      "name": "back_end",
+      "guildId": "1353795780384657479",
+      "guildName": "UBB_A",
+      "roleId": "1387228256939409448",
+      "roleName": "Ub",
+      "createdBy": "550049617564270642",
+      "createdAt": "2025-06-25T00:30:13.247Z",
+      "tasks": [
+        {
+          "id": 1,
+          "title": "Getting Started",
+          "description": "Welcome to the new roadmap! You can add tasks using task management commands.",
+          "status": "pending",
+          "createdAt": "2025-06-25T00:30:13.247Z",
+          "emoji": "📝",
+          "weekNumber": 1,
+          "completedBy": [
+            "550049617564270642"
+          ],
+          "hiddenBy": []
+        },
+        {
+          "id": 2,
+          "title": "ggg",
+          "description": "bb",
+          "status": "pending",
+          "createdAt": "2025-06-25T00:51:04.844Z",
+          "createdBy": "550049617564270642",
+          "completedBy": [
+            "550049617564270642"
+          ],
+          "messageId": "1387233605176131645",
+          "channelId": "1353795780925984810",
+          "emoji": "📚",
+          "hiddenBy": []
+        },
+        {
+          "id": 3,
+          "title": "gggr",
+          "description": "bb",
+          "status": "pending",
+          "createdAt": "2025-06-25T00:51:38.982Z",
+          "createdBy": "550049617564270642",
+          "completedBy": [
+            "550049617564270642"
+          ],
+          "messageId": "1387233748692504617",
+          "channelId": "1353795780925984810",
+          "emoji": "💻",
+          "hiddenBy": []
+        },
+        {
+          "id": 4,
+          "title": "hhh",
+          "emoji": "1️⃣",
+          "status": "pending",
+          "createdBy": "550049617564270642",
+          "completedBy": [
+            "550049617564270642"
+          ],
+          "hiddenBy": [],
+          "messageId": "1387248426890297394",
+          "channelId": "1353795780925984810"
+        },
+        {
+          "id": 5,
+          "title": "bb",
+          "emoji": "2️⃣",
+          "status": "pending",
+          "createdBy": "550049617564270642",
+          "completedBy": [],
+          "hiddenBy": []
+        },
+        {
+          "id": 6,
+          "title": "gg",
+          "emoji": "3️⃣",
+          "status": "pending",
+          "createdBy": "550049617564270642",
+          "completedBy": [],
+          "hiddenBy": []
+        },
+        {
+          "id": 7,
+          "title": "iki",
+          "emoji": "4️⃣",
+          "status": "pending",
+          "createdBy": "550049617564270642",
+          "completedBy": [],
+          "hiddenBy": []
+        },
+        {
+          "id": 8,
+          "title": "yuy",
+          "emoji": "5️⃣",
+          "status": "pending",
+          "createdBy": "550049617564270642",
+          "completedBy": [],
+          "hiddenBy": []
+        },
+        {
+          "id": 9,
+          "title": "jj",
+          "emoji": "6️⃣",
+          "status": "pending",
+          "createdBy": "550049617564270642",
+          "completedBy": [],
+          "hiddenBy": []
+        },
+        {
+          "id": 10,
+          "title": "hhhh",
+          "emoji": "7️⃣",
+          "status": "pending",
+          "createdBy": "550049617564270642",
+          "completedBy": [],
+          "hiddenBy": []
+        }
+      ]
+    },
+    "1377373121207865514_backend-roadmap-tmp": {
+      "id": "1377373121207865514_backend-roadmap-tmp",
+      "name": "Backend-RoadMap-TMP",
+      "guildId": "1377373121207865514",
+      "guildName": "Web Dev",
+      "roleId": "1377401627723694203",
+      "roleName": "Back End",
+      "createdBy": "550049617564270642",
+      "createdAt": "2025-06-25T16:55:09.049Z",
+      "tasks": [
+        {
+          "id": 1,
+          "title": "How does the internet work?",
+          "description": "How does the internet work?",
+          "status": "pending",
+          "createdBy": "550049617564270642",
+          "weekNumber": 1,
+          "topic": "Internet",
+          "links": [
+            "https://www.youtube.com/watch?v=zN8YNNHcaZc&list=PPSV&t=1s"
+          ],
+          "createdAt": "2025-06-25T17:05:56.008Z",
+          "completedBy": [],
+          "hiddenBy": []
+        },
+        {
+          "id": 2,
+          "title": "What is HTTP",
+          "description": "What is HTTP",
+          "status": "pending",
+          "createdBy": "550049617564270642",
+          "weekNumber": 1,
+          "topic": "Internet",
+          "links": [],
+          "createdAt": "2025-06-25T17:05:56.008Z",
+          "completedBy": [],
+          "hiddenBy": []
+        },
+        {
+          "id": 3,
+          "title": "What is domain name",
+          "description": "What is domain name",
+          "status": "pending",
+          "createdBy": "550049617564270642",
+          "weekNumber": 1,
+          "topic": "Internet",
+          "links": [],
+          "createdAt": "2025-06-25T17:05:56.008Z",
+          "completedBy": [],
+          "hiddenBy": []
+        },
+        {
+          "id": 4,
+          "title": "What is hosting",
+          "description": "What is hosting",
+          "status": "pending",
+          "createdBy": "550049617564270642",
+          "weekNumber": 1,
+          "topic": "Internet",
+          "links": [],
+          "createdAt": "2025-06-25T17:05:56.008Z",
+          "completedBy": [],
+          "hiddenBy": []
+        },
+        {
+          "id": 5,
+          "title": "DNS and how it works",
+          "description": "DNS and how it works",
+          "status": "pending",
+          "createdBy": "550049617564270642",
+          "weekNumber": 1,
+          "topic": "Internet",
+          "links": [],
+          "createdAt": "2025-06-25T17:05:56.008Z",
+          "completedBy": [],
+          "hiddenBy": []
+        },
+        {
+          "id": 6,
+          "title": "Browser and how they work",
+          "description": "Browser and how they work",
+          "status": "pending",
+          "createdBy": "550049617564270642",
+          "weekNumber": 1,
+          "topic": "Internet",
+          "links": [],
+          "createdAt": "2025-06-25T17:05:56.008Z",
+          "completedBy": [],
+          "hiddenBy": []
+        },
+        {
+          "id": 7,
+          "title": "CS50 - week 0: Functions, Variables",
+          "description": "CS50 - week 0: Functions, Variables",
+          "status": "pending",
+          "createdBy": "550049617564270642",
+          "weekNumber": 1,
+          "topic": "Python",
+          "links": [
+            "https://cs50.harvard.edu/python/2022/"
+          ],
+          "createdAt": "2025-06-25T17:05:56.008Z",
+          "completedBy": [],
+          "hiddenBy": []
+        },
+        {
+          "id": 8,
+          "title": "week 1: Conditionals",
+          "description": "week 1: Conditionals",
+          "status": "pending",
+          "createdBy": "550049617564270642",
+          "weekNumber": 1,
+          "topic": "Python",
+          "links": [],
+          "createdAt": "2025-06-25T17:05:56.008Z",
+          "completedBy": [],
+          "hiddenBy": []
+        },
+        {
+          "id": 9,
+          "title": "week 2: Loops",
+          "description": "week 2: Loops",
+          "status": "pending",
+          "createdBy": "550049617564270642",
+          "weekNumber": 1,
+          "topic": "Python",
+          "links": [],
+          "createdAt": "2025-06-25T17:05:56.008Z",
+          "completedBy": [],
+          "hiddenBy": []
+        },
+        {
+          "id": 10,
+          "title": "week 3: Exceptions",
+          "description": "week 3: Exceptions",
+          "status": "pending",
+          "createdBy": "550049617564270642",
+          "weekNumber": 1,
+          "topic": "Python",
+          "links": [],
+          "createdAt": "2025-06-25T17:05:56.008Z",
+          "completedBy": [],
+          "hiddenBy": []
+        },
+        {
+          "id": 11,
+          "title": "week 4: Libraries",
+          "description": "week 4: Libraries",
+          "status": "pending",
+          "createdBy": "550049617564270642",
+          "weekNumber": 1,
+          "topic": "Python",
+          "links": [],
+          "createdAt": "2025-06-25T17:05:56.008Z",
+          "completedBy": [],
+          "hiddenBy": []
+        },
+        {
+          "id": 12,
+          "title": "week 5: Unit Tests",
+          "description": "week 5: Unit Tests",
+          "status": "pending",
+          "createdBy": "550049617564270642",
+          "weekNumber": 1,
+          "topic": "Python",
+          "links": [],
+          "createdAt": "2025-06-25T17:05:56.008Z",
+          "completedBy": [],
+          "hiddenBy": []
+        },
+        {
+          "id": 13,
+          "title": "week 6: File I/O",
+          "description": "week 6: File I/O",
+          "status": "pending",
+          "createdBy": "550049617564270642",
+          "weekNumber": 1,
+          "topic": "Python",
+          "links": [],
+          "createdAt": "2025-06-25T17:05:56.008Z",
+          "completedBy": [],
+          "hiddenBy": []
+        },
+        {
+          "id": 14,
+          "title": "week 7: Regular Expressions",
+          "description": "week 7: Regular Expressions",
+          "status": "pending",
+          "createdBy": "550049617564270642",
+          "weekNumber": 1,
+          "topic": "Python",
+          "links": [],
+          "createdAt": "2025-06-25T17:05:56.008Z",
+          "completedBy": [],
+          "hiddenBy": []
+        },
+        {
+          "id": 15,
+          "title": "week 8: Object-Oriented Programming",
+          "description": "week 8: Object-Oriented Programming",
+          "status": "pending",
+          "createdBy": "550049617564270642",
+          "weekNumber": 1,
+          "topic": "Python",
+          "links": [],
+          "createdAt": "2025-06-25T17:05:56.008Z",
+          "completedBy": [],
+          "hiddenBy": []
+        },
+        {
+          "id": 16,
+          "title": "week 9: Et Cetera",
+          "description": "week 9: Et Cetera",
+          "status": "pending",
+          "createdBy": "550049617564270642",
+          "weekNumber": 1,
+          "topic": "Python",
+          "links": [],
+          "createdAt": "2025-06-25T17:05:56.008Z",
+          "completedBy": [],
+          "hiddenBy": []
+        }
+      ]
+    }
+  },
+  "lastUpdated": "2025-06-25T18:45:54.894Z",
+  "version": "1.0.0",
+  "autoposting": {
+    "1353795780384657479": {
+      "enabled": true,
+      "channelId": "1353795780925984810",
+      "messages": [
+        "Good morning everyone!",
+        "Hope you're having a productive day!",
+        "Don't forget to check your tasks!",
+        "Keep up the great work!"
+      ],
+      "currentIndex": 2
+    }
+  }
+}

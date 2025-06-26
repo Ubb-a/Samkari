@@ -1,0 +1,13 @@
+{
+  "name": "ub-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}

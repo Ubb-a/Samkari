@@ -1,0 +1,301 @@
+{
+  "roadmaps": {
+    "1353795780384657479_frontend": {
+      "id": "1353795780384657479_frontend",
+      "name": "Frontend",
+      "guildId": "1353795780384657479",
+      "guildName": "UBB_A",
+      "roleId": "1387228256939409448",
+      "roleName": "Ub",
+      "createdBy": "550049617564270642",
+      "createdAt": "2025-06-26T03:47:25.755Z",
+      "tasks": [
+        {
+          "id": 1,
+          "title": "Getting Started",
+          "description": "Welcome to your new roadmap! You can add tasks using the task management commands.",
+          "status": "pending",
+          "createdAt": "2025-06-26T03:47:25.755Z",
+          "completedBy": [
+            "550049617564270642"
+          ],
+          "hiddenBy": [
+            "550049617564270642"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Day 1: Introduction & Page Structure",
+          "description": "Day 1: Introduction & Page Structure",
+          "status": "pending",
+          "createdBy": "550049617564270642",
+          "weekNumber": 1,
+          "topic": "HTML",
+          "links": [
+            "https://www.youtube.com/watch?v=6QAELgirvjs",
+            "https://www.youtube.com/watch?v=ntbj3M3gJ0Y",
+            "https://www.youtube.com/watch?v=iKhl5vFDn4I",
+            "https://www.youtube.com/watch?v=HMy2L4xXWo0",
+            "https://www.youtube.com/watch?v=gcG2nMp3r0U"
+          ],
+          "createdAt": "2025-06-26T03:48:06.789Z",
+          "completedBy": [],
+          "hiddenBy": []
+        },
+        {
+          "id": 3,
+          "title": "Day 2: Formatting Text",
+          "description": "Day 2: Formatting Text",
+          "status": "pending",
+          "createdBy": "550049617564270642",
+          "weekNumber": 1,
+          "topic": "HTML",
+          "links": [
+            "https://www.youtube.com/watch?v=ubtUuW8uBok",
+            "https://www.youtube.com/watch?v=kzWx1Vq6qk4",
+            "https://www.youtube.com/watch?v=zKXzY3p1v1U",
+            "https://www.youtube.com/watch?v=fyGHgFvYb0k",
+            "https://www.youtube.com/watch?v=l1EssrLxt7E"
+          ],
+          "createdAt": "2025-06-26T03:48:06.789Z",
+          "completedBy": [],
+          "hiddenBy": []
+        },
+        {
+          "id": 4,
+          "title": "Day 3: Media Elements",
+          "description": "Day 3: Media Elements",
+          "status": "pending",
+          "createdBy": "550049617564270642",
+          "weekNumber": 1,
+          "topic": "HTML",
+          "links": [
+            "https://www.youtube.com/watch?v=IY5UN82FZgY",
+            "https://www.youtube.com/watch?v=8r07B1Ix4g8",
+            "https://www.youtube.com/watch?v=Uszj_k0DGsg",
+            "https://www.youtube.com/watch?v=FZ3p2FMB7Gg",
+            "https://www.youtube.com/watch?v=yVptEv3qgUg"
+          ],
+          "createdAt": "2025-06-26T03:48:06.789Z",
+          "completedBy": [],
+          "hiddenBy": []
+        },
+        {
+          "id": 5,
+          "title": "Day 4: Form Basics",
+          "description": "Day 4: Form Basics",
+          "status": "pending",
+          "createdBy": "550049617564270642",
+          "weekNumber": 1,
+          "topic": "HTML",
+          "links": [
+            "https://www.youtube.com/watch?v=kWvFnbHlt2w",
+            "https://www.youtube.com/watch?v=4lT0SA1wGJk",
+            "https://www.youtube.com/watch?v=ZmzqS6pZFYk",
+            "https://www.youtube.com/watch?v=3x2ABSAMVno",
+            "https://www.youtube.com/watch?v=ZQk7Ek3nAy0"
+          ],
+          "createdAt": "2025-06-26T03:48:06.789Z",
+          "completedBy": [],
+          "hiddenBy": []
+        },
+        {
+          "id": 6,
+          "title": "Day 5: More Form Elements",
+          "description": "Day 5: More Form Elements",
+          "status": "pending",
+          "createdBy": "550049617564270642",
+          "weekNumber": 1,
+          "topic": "HTML",
+          "links": [
+            "https://www.youtube.com/watch?v=52dUh0UAA3Y",
+            "https://www.youtube.com/watch?v=3Axr2oPKOUk",
+            "https://www.youtube.com/watch?v=6MQpD1jE3gk",
+            "https://www.youtube.com/watch?v=lmjJslObJrg",
+            "https://www.youtube.com/watch?v=2_m9_LQoSRY"
+          ],
+          "createdAt": "2025-06-26T03:48:06.789Z",
+          "completedBy": [],
+          "hiddenBy": []
+        },
+        {
+          "id": 7,
+          "title": "Day 6: Semantic & Structure",
+          "description": "Day 6: Semantic & Structure",
+          "status": "pending",
+          "createdBy": "550049617564270642",
+          "weekNumber": 1,
+          "topic": "HTML",
+          "links": [
+            "https://www.youtube.com/watch?v=5YkI4ubQw9U",
+            "https://www.youtube.com/watch?v=J9SgD5Gf9Pc",
+            "https://www.youtube.com/watch?v=WagvVjvQrsY",
+            "https://www.youtube.com/watch?v=rPIfTGxICbE",
+            "https://www.youtube.com/watch?v=5JAX0qrRA6M"
+          ],
+          "createdAt": "2025-06-26T03:48:06.789Z",
+          "completedBy": [],
+          "hiddenBy": []
+        },
+        {
+          "id": 8,
+          "title": "Day 7: Practice & Extras",
+          "description": "Day 7: Practice & Extras",
+          "status": "pending",
+          "createdBy": "550049617564270642",
+          "weekNumber": 1,
+          "topic": "HTML",
+          "links": [
+            "https://www.youtube.com/watch?v=1UsHqGUibjI",
+            "https://www.youtube.com/watch?v=-95Wadg6qyg",
+            "https://www.youtube.com/watch?v=ZXKnbB7RYmA",
+            "https://www.youtube.com/watch?v=kqLFz4C1MCY",
+            "https://www.youtube.com/watch?v=0No-xyDqVzQ",
+            "https://www.youtube.com/watch?v=miZz2uAruC0",
+            "https://www.youtube.com/watch?v=XAC4k_V_w5I"
+          ],
+          "createdAt": "2025-06-26T03:48:06.789Z",
+          "completedBy": [],
+          "hiddenBy": []
+        },
+        {
+          "id": 9,
+          "title": "Day 1: Introduction & Page Structure",
+          "description": "Day 1: Introduction & Page Structure",
+          "status": "pending",
+          "createdBy": "550049617564270642",
+          "weekNumber": 1,
+          "topic": "HTML",
+          "links": [
+            "https://www.youtube.com/watch?v=6QAELgirvjs",
+            "https://www.youtube.com/watch?v=ntbj3M3gJ0Y",
+            "https://www.youtube.com/watch?v=iKhl5vFDn4I",
+            "https://www.youtube.com/watch?v=HMy2L4xXWo0",
+            "https://www.youtube.com/watch?v=gcG2nMp3r0U"
+          ],
+          "createdAt": "2025-06-26T03:48:06.795Z",
+          "completedBy": [],
+          "hiddenBy": []
+        },
+        {
+          "id": 10,
+          "title": "Day 2: Formatting Text",
+          "description": "Day 2: Formatting Text",
+          "status": "pending",
+          "createdBy": "550049617564270642",
+          "weekNumber": 1,
+          "topic": "HTML",
+          "links": [
+            "https://www.youtube.com/watch?v=ubtUuW8uBok",
+            "https://www.youtube.com/watch?v=kzWx1Vq6qk4",
+            "https://www.youtube.com/watch?v=zKXzY3p1v1U",
+            "https://www.youtube.com/watch?v=fyGHgFvYb0k",
+            "https://www.youtube.com/watch?v=l1EssrLxt7E"
+          ],
+          "createdAt": "2025-06-26T03:48:06.795Z",
+          "completedBy": [],
+          "hiddenBy": []
+        },
+        {
+          "id": 11,
+          "title": "Day 3: Media Elements",
+          "description": "Day 3: Media Elements",
+          "status": "pending",
+          "createdBy": "550049617564270642",
+          "weekNumber": 1,
+          "topic": "HTML",
+          "links": [
+            "https://www.youtube.com/watch?v=IY5UN82FZgY",
+            "https://www.youtube.com/watch?v=8r07B1Ix4g8",
+            "https://www.youtube.com/watch?v=Uszj_k0DGsg",
+            "https://www.youtube.com/watch?v=FZ3p2FMB7Gg",
+            "https://www.youtube.com/watch?v=yVptEv3qgUg"
+          ],
+          "createdAt": "2025-06-26T03:48:06.795Z",
+          "completedBy": [],
+          "hiddenBy": []
+        },
+        {
+          "id": 12,
+          "title": "Day 4: Form Basics",
+          "description": "Day 4: Form Basics",
+          "status": "pending",
+          "createdBy": "550049617564270642",
+          "weekNumber": 1,
+          "topic": "HTML",
+          "links": [
+            "https://www.youtube.com/watch?v=kWvFnbHlt2w",
+            "https://www.youtube.com/watch?v=4lT0SA1wGJk",
+            "https://www.youtube.com/watch?v=ZmzqS6pZFYk",
+            "https://www.youtube.com/watch?v=3x2ABSAMVno",
+            "https://www.youtube.com/watch?v=ZQk7Ek3nAy0"
+          ],
+          "createdAt": "2025-06-26T03:48:06.795Z",
+          "completedBy": [],
+          "hiddenBy": []
+        },
+        {
+          "id": 13,
+          "title": "Day 5: More Form Elements",
+          "description": "Day 5: More Form Elements",
+          "status": "pending",
+          "createdBy": "550049617564270642",
+          "weekNumber": 1,
+          "topic": "HTML",
+          "links": [
+            "https://www.youtube.com/watch?v=52dUh0UAA3Y",
+            "https://www.youtube.com/watch?v=3Axr2oPKOUk",
+            "https://www.youtube.com/watch?v=6MQpD1jE3gk",
+            "https://www.youtube.com/watch?v=lmjJslObJrg",
+            "https://www.youtube.com/watch?v=2_m9_LQoSRY"
+          ],
+          "createdAt": "2025-06-26T03:48:06.795Z",
+          "completedBy": [],
+          "hiddenBy": []
+        },
+        {
+          "id": 14,
+          "title": "Day 6: Semantic & Structure",
+          "description": "Day 6: Semantic & Structure",
+          "status": "pending",
+          "createdBy": "550049617564270642",
+          "weekNumber": 1,
+          "topic": "HTML",
+          "links": [
+            "https://www.youtube.com/watch?v=5YkI4ubQw9U",
+            "https://www.youtube.com/watch?v=J9SgD5Gf9Pc",
+            "https://www.youtube.com/watch?v=WagvVjvQrsY",
+            "https://www.youtube.com/watch?v=rPIfTGxICbE",
+            "https://www.youtube.com/watch?v=5JAX0qrRA6M"
+          ],
+          "createdAt": "2025-06-26T03:48:06.795Z",
+          "completedBy": [],
+          "hiddenBy": []
+        },
+        {
+          "id": 15,
+          "title": "Day 7: Practice & Extras",
+          "description": "Day 7: Practice & Extras",
+          "status": "pending",
+          "createdBy": "550049617564270642",
+          "weekNumber": 1,
+          "topic": "HTML",
+          "links": [
+            "https://www.youtube.com/watch?v=1UsHqGUibjI",
+            "https://www.youtube.com/watch?v=-95Wadg6qyg",
+            "https://www.youtube.com/watch?v=ZXKnbB7RYmA",
+            "https://www.youtube.com/watch?v=kqLFz4C1MCY",
+            "https://www.youtube.com/watch?v=0No-xyDqVzQ",
+            "https://www.youtube.com/watch?v=miZz2uAruC0",
+            "https://www.youtube.com/watch?v=XAC4k_V_w5I"
+          ],
+          "createdAt": "2025-06-26T03:48:06.795Z",
+          "completedBy": [],
+          "hiddenBy": []
+        }
+      ]
+    }
+  },
+  "lastUpdated": "2025-06-26T07:03:36.386Z",
+  "version": "1.0.0"
+}

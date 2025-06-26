@@ -156,20 +156,7 @@ module.exports = {
                         weekText += `  ${statusEmoji} **${task.id}.** ${task.title}\n`;
                         
                         // Add links if they exist
-                        if (task.links && task.links.length > 0) {
-                            const formattedLinks = formatLinksDisplay(task.links);
-                            formattedLinks.forEach(formattedLink => {
-                                weekText += `    🔗 ${formattedLink}\n`;
-                            });
-                        } else if (task.link) {
-                            const formattedLinks = formatLinksDisplay([task.link]);
-                            formattedLinks.forEach(formattedLink => {
-                                weekText += `    🔗 ${formattedLink}\n`;
-                            });
-                        }
-                    }
-                    weekText += '\n';
-                }
+                       
                 
                 embed.addFields({
                     name: `📅 Week ${weekNum} (${totalWeekTasks} tasks)`,

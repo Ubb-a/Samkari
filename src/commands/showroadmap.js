@@ -140,29 +140,41 @@ module.exports = {
                     
                     weekText += `**📚 ${topicName}:**\n`;
                     
-                    for (const task of topicTasks) {
-                        let statusEmoji = '';
-                        switch (task.status) {
-                            case 'completed':
-                                statusEmoji = '✅';
-                                break;
-                            case 'in-progress':
-                                statusEmoji = '🔄';
-                                break;
-                            default:
-                                statusEmoji = '⏳';
-                        }
-                        
-                        weekText += `  ${statusEmoji} **${task.id}.** ${task.title}\n`;
-                        
-                        // Add links if they exist
-                       
-                
-                embed.addFields({
-                    name: `📅 Week ${weekNum} (${totalWeekTasks} tasks)`,
-                    value: weekText || 'No tasks in this week.',
-                    inline: false
-                });
+for (const topicName of sortedTopics) {
+    const topicTasks = weekTopics[topicName];
+    totalWeekTasks += topicTasks.length;
+
+    weekText += `**📚 ${topicName}:**\n`;
+
+    for (const task of topicTasks) {
+        let statusEmoji = '';
+        switch (task.status) {
+            case 'completed':
+                statusEmoji = '✅';
+                break;
+            case 'in-progress':
+                statusEmoji = '🔄';
+                break;
+            default:
+                statusEmoji = '⏳';
+        }
+
+        weekText += `  ${statusEmoji} **${task.id}.** ${task.title}\n`;
+
+        // هنا تقدر تضيف روابط لو عايز
+        // if (task.links && task.links.length > 0) {
+        //     weekText += formatLinksDisplay(task.links);
+        // }
+    } // 👈 دي كانت ناقصة
+
+} // 👈 ودي كمان
+
+embed.addFields({
+    name: `📅 Week ${weekNum} (${totalWeekTasks} tasks)`,
+    value: weekText || 'No tasks in this week.',
+    inline: false
+});
+
             }
             
             if (sortedWeeks.length > 5) {
